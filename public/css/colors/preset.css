@@ -1,136 +1,192 @@
-a{
-	color: #F97794;
+a {
+    color: gold;
 }
-a:hover{
-	color: #F97794;
+
+a:hover {
+    color: gold;
 }
-.btn-common{
-    background-color: #F97794;
+
+.btn-common {
+    background-color: gold;
 }
-.btn-border:hover{
-	background-color: #F97794;
+
+.btn-border:hover {
+    background-color: gold;
 }
-.controls .active{
-	color: #F97794 !important;
-    border-color: #F97794;
+
+.controls .active {
+    color: gold !important;
+    border-color: gold;
 }
-.bg-defult{
-	background: #F97794!important;
+
+.bg-defult {
+    background: gold!important;
 }
-#carousel-area .carousel-control-next i, #carousel-area .carousel-control-prev i{
-	background: #F97794;
+
+#carousel-area .carousel-control-next i,
+#carousel-area .carousel-control-prev i {
+    background: gold;
 }
-.section-header .section-title:before{
-	background: #F97794;
+
+.section-header .section-title:before {
+    background: gold;
 }
-.overlay{
-	background: #F97794;
+
+.overlay {
+    background: gold;
 }
-.bg-white .navbar-nav .active{
-	color: #F97794!important;
+
+.bg-white .navbar-nav .active {
+    color: gold!important;
 }
-.menu-bg .navbar-nav .active{
-	color: #F97794!important;
+
+.menu-bg .navbar-nav .active {
+    color: gold!important;
 }
-.menu-bg .navbar-nav .nav-link:hover{
-	color: #F97794!important;
+
+.menu-bg .navbar-nav .nav-link:hover {
+    color: gold!important;
 }
-.navbar-expand-md .navbar-nav .active > .nav-link, .navbar-expand-md .navbar-nav .nav-link.active, .navbar-expand-md .navbar-nav .nav-link.active::before, .navbar-expand-md .navbar-nav .nav-link.open, .navbar-expand-md .navbar-nav .open > .nav-link{
-	color: #F97794;
+
+.navbar-expand-md .navbar-nav .active>.nav-link,
+.navbar-expand-md .navbar-nav .nav-link.active,
+.navbar-expand-md .navbar-nav .nav-link.active::before,
+.navbar-expand-md .navbar-nav .nav-link.open,
+.navbar-expand-md .navbar-nav .open>.nav-link {
+    color: gold;
 }
-.navbar-expand-md .navbar-nav .nav-link:focus, .navbar-expand-md .navbar-nav .nav-link:hover, .navbar-expand-md .navbar-nav .nav-link:hover:before{
-	color: #F97794;
+
+.navbar-expand-md .navbar-nav .nav-link:focus,
+.navbar-expand-md .navbar-nav .nav-link:hover,
+.navbar-expand-md .navbar-nav .nav-link:hover:before {
+    color: gold;
 }
-.navbar-expand-md .navbar-nav .nav-link:before{
-	background: #F97794;
+
+.navbar-expand-md .navbar-nav .nav-link:before {
+    background: gold;
 }
-.menu-bg .logo-menu a, .menu-bg .menu-button:hover{color: #F97794;}
+
+.menu-bg .logo-menu a,
+.menu-bg .menu-button:hover {
+    color: gold;
+}
+
 .menu-wrap .navbar-nav li .active,
-.menu-wrap .navbar-nav li .active::before{
-	color: #F97794;
+.menu-wrap .navbar-nav li .active::before {
+    color: gold;
 }
-.menu-wrap a:hover, .menu-wrap a:focus{
-	color: #F97794;
+
+.menu-wrap a:hover,
+.menu-wrap a:focus {
+    color: gold;
 }
+
 .icon-list a::before {
-    background: #F97794;
+    background: gold;
 }
-#about .box-item .icon i{
-	color: #F97794;
+
+#about .box-item .icon i {
+    color: gold;
 }
-.item-boxes .icon{
-	border-color: #F97794;
+
+.item-boxes .icon {
+    border-color: gold;
 }
-.item-boxes .icon i{
-	color: #F97794;
+
+.item-boxes .icon i {
+    color: gold;
 }
-.featured-box .featured-icon i{
-	color: #F97794; 
+
+.featured-box .featured-icon i {
+    color: gold;
 }
-.controls .mixitup-control-active{
-	color: #F97794!important;
-	border-color: #F97794;
+
+.controls .mixitup-control-active {
+    color: gold!important;
+    border-color: gold;
 }
-.testimonial-item .author .author-info h2 a:hover{
-	color: #F97794;
+
+.testimonial-item .author .author-info h2 a:hover {
+    color: gold;
 }
-.testimonial-item .content-inner span{
-	color: #F97794;
+
+.testimonial-item .content-inner span {
+    color: gold;
 }
-.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span{
-	background: #F97794;
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background: gold;
 }
-#subscribe .sub-item-box .icon-box i{
-	color: #F97794;
+
+#subscribe .sub-item-box .icon-box i {
+    color: gold;
 }
-#blog .blog-item-text h3 a:hover{
-	color: #F97794;
+
+#blog .blog-item-text h3 a:hover {
+    color: gold;
 }
-.meta-tags span a:hover{
-	color: #F97794;
+
+.meta-tags span a:hover {
+    color: gold;
 }
-.form-control:focus{
-	border: 1px solid #F97794
+
+.form-control:focus {
+    border: 1px solid gold
 }
-#contact:before{
-	background: #F97794;
+
+#contact:before {
+    background: gold;
 }
-.contact-info i{
-	color: #F97794;
+
+.contact-info i {
+    color: gold;
 }
-.back-to-top i{
-	background-color: #F97794;
+
+.back-to-top i {
+    background-color: gold;
 }
-.single-team .social-list li a{
-	color: #F97794;
+
+.single-team .social-list li a {
+    color: gold;
 }
-.footer-social li a{
-	background: #F97794;
+
+.footer-social li a {
+    background: gold;
 }
-footer .menu li a:hover{
-	color: #F97794;
+
+footer .menu li a:hover {
+    color: gold;
 }
-.contact-footer li span a:hover{
-	color: #F97794;
+
+.contact-footer li span a:hover {
+    color: gold;
 }
-.toggle-map{
-	background-color: #F97794;
+
+.toggle-map {
+    background-color: gold;
 }
-.toggle-map .map-icon{
-	border-color: #F97794;
+
+.toggle-map .map-icon {
+    border-color: gold;
 }
-.counter-item .icon i{
-	color: #F97794;
+
+.counter-item .icon i {
+    color: gold;
 }
-#google-map{
-	border-color: #F97794;
+
+#google-map {
+    border-color: gold;
 }
-#subscribe form input:focus{
-	border-color: #F97794;
+
+#subscribe form input:focus {
+    border-color: gold;
 }
-#copyright p a:hover{
-	color: #F97794;
+
+#copyright p a:hover {
+    color: gold;
 }
-#copyright .nav-inline .nav-link:hover{
-	color: #F97794;
+
+#copyright .nav-inline .nav-link:hover {
+    color: gold;
 }
